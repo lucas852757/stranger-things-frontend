@@ -1,4 +1,4 @@
-/* https://app.betrybe.com/course/live-lectures/sd-cohort-19-b#dia-251-deploy-com-heroku */
+/* source: https://app.betrybe.com/course/live-lectures/sd-cohort-19-b#dia-251-deploy-com-heroku */
 import axios from 'axios';
 
 const DEFAULT_TIMEOUT = 30000;
