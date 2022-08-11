@@ -8,7 +8,7 @@ class CharactersService {
       baseURL: url,
       timeout,
     });
-  }
+  }//
 
   async getCharacters(name, page, size) {
     const params = {
