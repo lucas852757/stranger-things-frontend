@@ -9,6 +9,6 @@ function App() {
       <StrangerThings />
     </div>
   );
-}//
+}
 
 export default App;
